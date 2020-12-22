@@ -8,4 +8,4 @@ Ontrip experience would be a web progressive link created by the Frytap for clie
 
 It would be a link which would help customers have a hassle free travel where they wouldnt have to carry all their travel documents.
 
-Link: https://www.figma.com/proto/fzGsN5IEWB1wdNGSY1LZ1E/Untitled?node-id=1%3A393&scaling=min-zoom
+Prototype Link: https://www.figma.com/proto/fzGsN5IEWB1wdNGSY1LZ1E/Untitled?node-id=1%3A393&scaling=min-zoom
